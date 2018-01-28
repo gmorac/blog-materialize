@@ -1,0 +1,21 @@
+@import 'materialize.css';
+
+h1, h2, h3, h4, h5, h6{
+	font-family: 'Oswald', sans-serif;
+}
+
+.iconmenu {
+	display: inline-block !important;
+	font-size: inherit !important;
+	padding:  0 .5em;
+}
+
+.profile {
+	width: 180px;
+}
+
+@media screen and (max-width: 768px){
+	.tCenter {
+		text-align: center;
+	}
+}
